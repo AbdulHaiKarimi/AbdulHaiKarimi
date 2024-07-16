@@ -2,6 +2,9 @@
 
 
 ![Greet](https://github.com/AbdulHaiKarimi/AbdulHaiKarimi/blob/main/.images/greet.gif?raw=True)
+
+It's good to see you on my page!
+
 <!--
 **AbdulHaiKarimi/AbdulHaiKarimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
