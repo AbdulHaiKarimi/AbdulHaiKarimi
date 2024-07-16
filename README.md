@@ -1,12 +1,8 @@
 ## Hello Visitors 👋
 
-<div align = "center">
-![Greet](https://github.com/AbdulHaiKarimi/AbdulHaiKarimi/blob/main/.images/greet.gif?raw=True)
-</div>
-
-<p align="center">
+<div align="center">
   <img src="https://github.com/AbdulHaiKarimi/AbdulHaiKarimi/blob/main/.images/greet.gif?raw=True" />
-</p>
+</div>
 
 
 It's good to see you on my page!
